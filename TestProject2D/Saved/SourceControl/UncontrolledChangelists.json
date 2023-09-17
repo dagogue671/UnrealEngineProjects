@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Projects/Unreal/TestProject2D/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Projects/Unreal/TestProject2D/Content/Level/Testing.umap",
+				"C:/Projects/Unreal/TestProject2D/Content/Assests/player/climb/player-climb-1.uasset",
+				"C:/Projects/Unreal/TestProject2D/Content/Assests/player/climb/player-climb-2.uasset",
+				"C:/Projects/Unreal/TestProject2D/Content/Assests/player/climb/player-climb-3.uasset",
+				"C:/Projects/Unreal/TestProject2D/Content/Assests/player/crouch/player-crouch-1.uasset",
+				"C:/Projects/Unreal/TestProject2D/Content/Assests/player/crouch/player-crouch-2.uasset",
+				"C:/Projects/Unreal/TestProject2D/Content/Assests/player/hurt/player-hurt-1.uasset",
+				"C:/Projects/Unreal/TestProject2D/Content/Assests/player/hurt/player-hurt-2.uasset",
+				"C:/Projects/Unreal/TestProject2D/Content/Assests/player/idle/player-idle-1.uasset",
+				"C:/Projects/Unreal/TestProject2D/Content/Assests/player/idle/player-idle-2.uasset",
+				"C:/Projects/Unreal/TestProject2D/Content/Assests/player/idle/player-idle-3.uasset",
+				"C:/Projects/Unreal/TestProject2D/Content/Assests/player/idle/player-idle-4.uasset",
+				"C:/Projects/Unreal/TestProject2D/Content/Assests/player/jump/player-jump-1.uasset",
+				"C:/Projects/Unreal/TestProject2D/Content/Assests/player/run/player-run-1.uasset",
+				"C:/Projects/Unreal/TestProject2D/Content/Assests/player/jump/player-jump-2.uasset",
+				"C:/Projects/Unreal/TestProject2D/Content/Assests/player/run/player-run-2.uasset",
+				"C:/Projects/Unreal/TestProject2D/Content/Assests/player/run/player-run-3.uasset",
+				"C:/Projects/Unreal/TestProject2D/Content/Assests/player/run/player-run-4.uasset",
+				"C:/Projects/Unreal/TestProject2D/Content/Assests/player/run/player-run-5.uasset",
+				"C:/Projects/Unreal/TestProject2D/Content/Assests/player/run/player-run-6.uasset",
+				"C:/Projects/Unreal/TestProject2D/Content/Assests/player/idle/player-idle-1_Sprite.uasset",
+				"C:/Projects/Unreal/TestProject2D/Content/Assests/player/idle/player-idle-2_Sprite.uasset",
+				"C:/Projects/Unreal/TestProject2D/Content/Assests/player/idle/player-idle-3_Sprite.uasset",
+				"C:/Projects/Unreal/TestProject2D/Content/Assests/player/idle/player-idle-4_Sprite.uasset",
+				"C:/Projects/Unreal/TestProject2D/Content/Assests/player/idle/player-idle.uasset"
+			]
+		}
+	]
+}
